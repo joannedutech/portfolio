@@ -418,6 +418,8 @@ section .container {
   margin-bottom: 20px;
   display: flex;
   align-items: center;
+  vertical-align:top;
+
 }
 
 .about-me .content ul strong {
